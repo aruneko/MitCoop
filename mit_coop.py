@@ -2,7 +2,6 @@ from __future__ import print_function
 from struct import unpack
 from binascii import hexlify
 from unicodedata import normalize
-from itertools import tee
 
 
 class OwnerInfo:
